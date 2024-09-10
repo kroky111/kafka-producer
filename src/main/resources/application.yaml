@@ -4,4 +4,4 @@ spring:
   kafka:
     bootstrap-servers: ${KAFKA_BOOTSTRAP_SERVERS}
 server:
-  port: 0
+  port: 8082
